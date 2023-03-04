@@ -1,9 +1,0 @@
-../Core/Src/bno055.c:30:6:bno055_iic_write_byte	32	static
-../Core/Src/bno055.c:36:6:bno055_iic_read_byte	32	static
-../Core/Src/bno055.c:41:6:_setPage	16	static
-../Core/Src/bno055.c:46:6:_setMode	16	static
-../Core/Src/bno055.c:51:6:_config	16	static
-../Core/Src/bno055.c:71:10:bno055_init	16	static
-../Core/Src/bno055.c:112:6:bno055_get_Accel_XYZ	24	static
-../Core/Src/bno055.c:135:6:bno055_get_Gyro_XYZ	24	static
-../Core/Src/bno055.c:149:6:bno055_get_Mag_XYZ	24	static
